@@ -1,0 +1,8 @@
+{
+  "asset_id": "moremobvariants:entity/cow/pinto",
+  "spawn_conditions": [
+    {
+      "priority": 0
+    }
+  ]
+}

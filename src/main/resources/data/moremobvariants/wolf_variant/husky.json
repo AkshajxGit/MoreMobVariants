@@ -1,0 +1,16 @@
+{
+  "assets": {
+    "angry": "moremobvariants:entity/wolf/husky_angry",
+    "tame": "moremobvariants:entity/wolf/husky_tame",
+    "wild": "moremobvariants:entity/wolf/husky_wild"
+  },
+  "spawn_conditions": [
+    {
+      "condition": {
+        "type": "minecraft:biome",
+        "biomes": "minecraft:grove"
+      },
+      "priority": 1
+    }
+  ]
+}

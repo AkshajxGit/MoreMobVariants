@@ -1,0 +1,8 @@
+{
+  "asset_id": "moremobvariants:entity/chicken/duck",
+  "spawn_conditions": [
+    {
+      "priority": 0
+    }
+  ]
+}

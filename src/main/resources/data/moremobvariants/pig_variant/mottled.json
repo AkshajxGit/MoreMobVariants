@@ -1,0 +1,8 @@
+{
+  "asset_id": "moremobvariants:entity/pig/mottled",
+  "spawn_conditions": [
+    {
+      "priority": 0
+    }
+  ]
+}

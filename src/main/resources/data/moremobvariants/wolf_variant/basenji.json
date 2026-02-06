@@ -1,0 +1,16 @@
+{
+  "assets": {
+    "angry": "moremobvariants:entity/wolf/basenji_angry",
+    "tame": "moremobvariants:entity/wolf/basenji_tame",
+    "wild": "moremobvariants:entity/wolf/basenji_wild"
+  },
+  "spawn_conditions": [
+    {
+      "condition": {
+        "type": "minecraft:biome",
+        "biomes": "minecraft:savanna"
+      },
+      "priority": 1
+    }
+  ]
+}

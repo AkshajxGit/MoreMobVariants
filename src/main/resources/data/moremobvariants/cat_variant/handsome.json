@@ -1,0 +1,8 @@
+{
+  "asset_id": "moremobvariants:entity/cat/handsome",
+  "spawn_conditions": [
+    {
+      "priority": 0
+    }
+  ]
+}

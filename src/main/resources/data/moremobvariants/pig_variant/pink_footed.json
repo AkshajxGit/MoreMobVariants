@@ -1,0 +1,8 @@
+{
+  "asset_id": "moremobvariants:entity/pig/pink_footed",
+  "spawn_conditions": [
+    {
+      "priority": 0
+    }
+  ]
+}

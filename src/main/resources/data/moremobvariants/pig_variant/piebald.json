@@ -1,0 +1,8 @@
+{
+  "asset_id": "moremobvariants:entity/pig/piebald",
+  "spawn_conditions": [
+    {
+      "priority": 0
+    }
+  ]
+}

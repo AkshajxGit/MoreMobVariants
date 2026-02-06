@@ -1,0 +1,8 @@
+{
+  "asset_id": "moremobvariants:entity/chicken/midnight",
+  "spawn_conditions": [
+    {
+      "priority": 0
+    }
+  ]
+}

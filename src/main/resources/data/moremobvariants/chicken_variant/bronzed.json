@@ -1,0 +1,8 @@
+{
+  "asset_id": "moremobvariants:entity/chicken/bronzed",
+  "spawn_conditions": [
+    {
+      "priority": 0
+    }
+  ]
+}
