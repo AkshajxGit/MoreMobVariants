@@ -1,0 +1,8 @@
+{
+  "asset_id": "moremobvariants:entity/chicken/gold_crested",
+  "spawn_conditions": [
+    {
+      "priority": 0
+    }
+  ]
+}

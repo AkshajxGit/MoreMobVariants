@@ -1,0 +1,16 @@
+{
+  "assets": {
+    "angry": "moremobvariants:entity/wolf/jupiter_angry",
+    "tame": "moremobvariants:entity/wolf/jupiter_tame",
+    "wild": "moremobvariants:entity/wolf/jupiter_wild"
+  },
+  "spawn_conditions": [
+    {
+      "condition": {
+        "type": "minecraft:biome",
+        "biomes": "#minecraft:spawns_warm_variant_farm_animals"
+      },
+      "priority": 1
+    }
+  ]
+}

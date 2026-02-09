@@ -1,0 +1,16 @@
+{
+  "assets": {
+    "angry": "moremobvariants:entity/wolf/german_shepherd_angry",
+    "tame": "moremobvariants:entity/wolf/german_shepherd_tame",
+    "wild": "moremobvariants:entity/wolf/german_shepherd_wild"
+  },
+  "spawn_conditions": [
+    {
+      "condition": {
+        "type": "minecraft:biome",
+        "biomes": "minecraft:meadow"
+      },
+      "priority": 1
+    }
+  ]
+}

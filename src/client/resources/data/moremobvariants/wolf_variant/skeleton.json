@@ -1,0 +1,16 @@
+{
+  "assets": {
+    "angry": "moremobvariants:entity/wolf/skeleton_angry",
+    "tame": "moremobvariants:entity/wolf/skeleton_tame",
+    "wild": "moremobvariants:entity/wolf/skeleton_wild"
+  },
+  "spawn_conditions": [
+    {
+      "condition": {
+        "type": "minecraft:biome",
+        "biomes": "minecraft:soul_sand_valley"
+      },
+      "priority": 1
+    }
+  ]
+}

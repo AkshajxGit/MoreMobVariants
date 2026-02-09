@@ -1,0 +1,16 @@
+{
+  "assets": {
+    "angry": "moremobvariants:entity/wolf/french_bulldog_angry",
+    "tame": "moremobvariants:entity/wolf/french_bulldog_tame",
+    "wild": "moremobvariants:entity/wolf/french_bulldog_wild"
+  },
+  "spawn_conditions": [
+    {
+      "condition": {
+        "type": "minecraft:biome",
+        "biomes": "minecraft:plains"
+      },
+      "priority": 1
+    }
+  ]
+}

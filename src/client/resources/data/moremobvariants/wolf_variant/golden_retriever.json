@@ -1,0 +1,16 @@
+{
+  "assets": {
+    "angry": "moremobvariants:entity/wolf/golden_retriever_angry",
+    "tame": "moremobvariants:entity/wolf/golden_retriever_tame",
+    "wild": "moremobvariants:entity/wolf/golden_retriever_wild"
+  },
+  "spawn_conditions": [
+    {
+      "condition": {
+        "type": "minecraft:biome",
+        "biomes": "minecraft:cherry_grove"
+      },
+      "priority": 1
+    }
+  ]
+}
