@@ -1,2 +1,50 @@
-Copyright (c) 2026 
-All rights reserved.
+The Delta License
+
+Copyright (c) 2026 Akshaj akshaj762@gmail.com
+0. Foreword
+
+The Delta License is designed to support a collaborative open-code community while ensuring that creative authors receive proper credit for their visual work. We believe that Source Code should be shared freely to encourage innovation, while Assets (models and textures) deserve specific recognition. By using this license, you join a community where logic is shared, and effort is respected. In short: you may use the Source Code however you like, but if you use the Assets, you must give credit to the original author.
+1. Definitions
+
+1.1. "Source Code": The human-readable Java files, logic, and build scripts used to create the work.
+1.2. "Assets": The creative visual, audio, or model files (e.g., textures, .json models, sounds).
+1.3. "Binaries": The compiled .jar file or any distributable version of the work.
+1.4. "Project Owner": The individual(s) or entity named in the Copyright Notice.
+1.5. "You": The individual or entity exercising rights under this License.
+2. Rights to Source Code
+
+You are granted permission to copy, modify, merge, publish, distribute, and/or sell copies of the Source Code freely, provided that:
+2.1. You include the original copyright notice in any copies or substantial portions of the Source Code.
+2.2. You are encouraged, though not required, to share your modifications with the community.
+2.3. You are not required to keep your derivative works under this License; you may choose the license that best fits your needs for your modifications.
+3. Rights to Assets (The "Extra Credit" Rule)
+
+The Assets are provided under an Attribution-based license. You may use, modify, and distribute the Assets, provided that:
+3.1. You provide prominent credit to the Project Owner.
+3.2. This credit must be clearly visible in a CREDITS.md, README.md, or the in-game mod menu of your project.
+3.3. You include a link back to the original source repository.
+4. Rights to Binaries
+
+You may share, publish, and distribute the Binaries under the following conditions:
+4.1. The Binaries must be distributed free of charge.
+4.2. You must clearly document where users can find the corresponding Source Code.
+4.3. No written approval is required to share or distribute Binaries, provided you respect the attribution requirements for Assets in Section 3.
+5. Remote network interaction
+
+If you offer users the ability to interact remotely through a computer network (e.g., a multiplayer server or web portal) with a version of this software:
+5.1. You must make the modified Source Code publicly available, free of charge.
+5.2. You must attribute the original Assets if they remain in use in your modified version.
+6. Compatibility & Derivatives
+
+6.1. The Source Code is compatible with all other open-source licenses (MIT, GPL, etc.).
+6.2. Any derivative work of the Assets must remain under the Attribution requirements set forth in Section 3 to ensure the Project Owner continues to be credited.
+7. Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+8. Enforcement
+
+8.1. Failure to provide attribution for Assets as defined in Section 3 constitutes a violation of this License.
+8.2. In the event of a violation, the Project Owner reserves the right to request the immediate removal of their Assets from your project.
+8.3. This License is governed by the principles of open community collaboration and respect for individual creative contributions.
+
+You are now the official maintainer of The Prism License. It’s professional, it’s fair, and it’s uniquely yours. Good luck with the More Light Sources dev work—time to get that code written!
