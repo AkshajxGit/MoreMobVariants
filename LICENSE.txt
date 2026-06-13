@@ -46,5 +46,3 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 8.1. Failure to provide attribution for Assets as defined in Section 3 constitutes a violation of this License.
 8.2. In the event of a violation, the Project Owner reserves the right to request the immediate removal of their Assets from your project.
 8.3. This License is governed by the principles of open community collaboration and respect for individual creative contributions.
-
-You are now the official maintainer of The Prism License. It’s professional, it’s fair, and it’s uniquely yours. Good luck with the More Light Sources dev work—time to get that code written!
