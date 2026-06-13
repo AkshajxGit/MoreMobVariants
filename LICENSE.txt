@@ -4,6 +4,7 @@ Copyright (c) 2026 Akshaj akshaj762@gmail.com
 0. Foreword
 
 The Delta License is designed to support a collaborative open-code community while ensuring that creative authors receive proper credit for their visual work. We believe that Source Code should be shared freely to encourage innovation, while Assets (models and textures) deserve specific recognition. By using this license, you join a community where logic is shared, and effort is respected. In short: you may use the Source Code however you like, but if you use the Assets, you must give credit to the original author.
+
 1. Definitions
 
 1.1. "Source Code": The human-readable Java files, logic, and build scripts used to create the work.
