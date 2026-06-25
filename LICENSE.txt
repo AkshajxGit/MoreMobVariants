@@ -15,7 +15,7 @@ The Delta License is designed to support a collaborative open-code community whi
 
 2. Rights to Source Code
 
-You are granted permission to copy, modify, merge, publish, distribute, and/or sell copies of the Source Code freely, provided that:
+You are granted permission to copy, modify, merge, publish, and/or distribute copies of the Source Code freely, provided that:
 2.1. You include the original copyright notice in any copies or substantial portions of the Source Code.
 2.2. You are encouraged, though not required, to share your modifications with the community.
 2.3. You are not required to keep your derivative works under this License; you may choose the license that best fits your needs for your modifications.
@@ -33,12 +33,13 @@ You may share, publish, and distribute the Binaries under the following conditio
 4.1. The Binaries must be distributed free of charge.
 4.2. You must clearly document where users can find the corresponding Source Code.
 4.3. No written approval is required to share or distribute Binaries, provided you respect the attribution requirements for Assets in Section 3.
+4.4.You may monetize videos, streams, and blog posts featuring this software (including ad revenue and sponsorships). You may also earn passive revenue from hosting platforms (such as CurseForge Reward Points or Modrinth Creator Rewards). However, you may not place the Binaries, Source Code, or Assets behind a commercial paywall, paid subscription, or selling mechanism.
 
 5. Remote network interaction
 
 If you offer users the ability to interact remotely through a computer network (e.g., a multiplayer server or web portal) with a version of this software:
-5.1. You must make the modified Source Code publicly available, free of charge.
-5.2. You must attribute the original Assets if they remain in use in your modified version.
+5.1. You are not required to publicize your modified Source Code.
+5.2. You must provide clear attribution to the Project Owner on your platform's public facing documentation (such as a website, store page, or server info menu) stating that the server utilizes a modified version of this software.
 
 6. Compatibility & Derivatives
 
